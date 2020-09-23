@@ -1,14 +1,11 @@
 <h1 align="">
     Фонкерам ку, остальным соболезную
 </h1>
-<p align="">
-    <samp>
-        
-        while True:
-            life.search(meaning_of_life)
-            
-    </samp>
-</p>
+
+```
+while True:
+   life.search(meaning_of_life)
+```
 
 ## Кодинг
 
