@@ -4,6 +4,7 @@
 
 <h2 align="">
 while True:
+    
     life.search(meaning_of_life)
 </h2>
 
