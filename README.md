@@ -21,3 +21,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+<!--END_SECTION:waka-->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=markelovstyle)](https://github.com/anuraghazra/github-readme-stats)
