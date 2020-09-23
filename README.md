@@ -3,8 +3,8 @@
 </h1>
 <p align="">
     <samp>
-        while True:
         
+        while True:
             life.search(meaning_of_life)
             
     </samp>
