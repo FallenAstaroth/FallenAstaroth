@@ -2,10 +2,10 @@
     Фонкерам ку, остальным соболезную
 </h1>
 
-```
+<h2 align="">
 while True:
     life.search(meaning_of_life)
-```
+</h2>
 
 ## Кодинг
 
