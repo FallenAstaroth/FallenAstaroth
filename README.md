@@ -2,6 +2,7 @@
     Фонкерам ку, остальным соболезную
 </h1>
 
+![Profile views](https://gpvc.arturio.dev/WolfInChains)
 ```
 while True:
     life.search(meaning_of_life)
