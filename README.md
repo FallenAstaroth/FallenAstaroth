@@ -1,6 +1,7 @@
 <h1 align="">
     Фонкерам ку, остальным соболезную
 </h1>
+
 ```
 while True:
     life.search(meaning_of_life)
