@@ -1,7 +1,7 @@
 <h1 align="">
     Фонкерам ку, остальным соболезную
-    <img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
 </h1>
+<img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
 
 ```
 while True:
