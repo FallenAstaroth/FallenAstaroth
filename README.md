@@ -7,7 +7,7 @@ while True:
     life.search(meaning_of_life)
 ```
 
-## My stack 👨‍💻	
+## Мой стек 👨‍💻	
 
 **Основное**
 
@@ -23,8 +23,8 @@ while True:
 
 <!--END_SECTION:waka-->
 
-## Stats 📊
+## Статистика 📊
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WolfInChains&show_icons=true&theme=default)
 
-## Contact me 💭
+## Связь со мной 💭
 <a href="https://vk.com/astagnar"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/80px-VK.com-logo.svg.png" width="16" height="16"> Вконтакте</a>
