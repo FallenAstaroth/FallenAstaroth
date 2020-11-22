@@ -1,6 +1,7 @@
 <h1 align="">
     Фонкерам ку, остальным соболезную
-     <img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
+    
+    <img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
 </h1>
 
 ```
