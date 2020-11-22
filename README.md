@@ -3,11 +3,6 @@
 </h1>
 <img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
 
-```
-while True:
-    life.search(meaning_of_life)
-```
-
 ## Мой стек 👨‍💻	
 
 **Основное**
