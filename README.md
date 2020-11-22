@@ -5,17 +5,10 @@
 
 ## Мой стек 👨‍💻	
 
-**Основное**
-
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
-
-**Дополнительное**
-
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=SQLite)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 <!--END_SECTION:waka-->
 
