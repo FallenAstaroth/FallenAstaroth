@@ -1,5 +1,5 @@
 <h1 align="">
-    Фонкерам ку, остальным соболезную
+    ._.
 </h1>
 <img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
 
