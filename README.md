@@ -1,5 +1,5 @@
 <h1 align="">
-<img src="https://www.codewars.com/users/Astagnar/badges/large" align="left" />
+<img src="https://www.codewars.com/users/Astagnar/badges/large" align="center" />
 </h1>
 <img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
 
