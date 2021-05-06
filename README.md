@@ -1,5 +1,5 @@
 <h1 align="">
-    ._.
+<img src="https://www.codewars.com/users/Astagnar/badges/large" align="left" />
 </h1>
 <img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
 
