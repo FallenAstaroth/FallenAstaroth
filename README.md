@@ -16,3 +16,4 @@
 
 ## Связь со мной 
 <a href="https://vk.com/astagnar"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/80px-VK.com-logo.svg.png" width="16" height="16"></a>
+<a href="https://vk.com/astagnar"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Discord.png" width="16" height="16"></a>
