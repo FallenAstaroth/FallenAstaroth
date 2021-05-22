@@ -16,4 +16,4 @@
 
 ## Связь со мной 
 <a href="https://vk.com/astagnar"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/80px-VK.com-logo.svg.png" width="16" height="16"></a>
-<a href="/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="16" height="16"></a>
+<a href="https://htmlpreview.github.io/?https://github.com/WolfInChains/WolfInChains/blob/master/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="16" height="16"></a>
