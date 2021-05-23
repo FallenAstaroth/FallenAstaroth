@@ -15,5 +15,5 @@
 <img src="https://www.codewars.com/users/Astagnar/badges/large" align="center" />
 
 ## Связь со мной 
-<a href="https://vk.com/astagnar"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/80px-VK.com-logo.svg.png" width="20" height="20"></a>
+<a href="https://vk.com/astagnar"><img src="https://cdn.icon-icons.com/icons2/535/PNG/512/VK-Icon_icon-icons.com_52860.png" width="20" height="20"></a>
 <a href="https://htmlpreview.github.io/?https://github.com/WolfInChains/WolfInChains/blob/master/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="20" height="20"></a>
