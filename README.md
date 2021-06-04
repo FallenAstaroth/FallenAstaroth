@@ -1,4 +1,4 @@
-<img src="https://gpvc.arturio.dev/WolfInChains" align="center" />
+<img src="https://gpvc.arturio.dev/FallenAstaroth" align="center" />
 
 ## Мой стек 
 
@@ -10,10 +10,10 @@
 <!--END_SECTION:waka-->
 
 ## Статистика 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WolfInChains&show_icons=true&theme=default)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FallenAstaroth&show_icons=true&theme=default)
 
 <img src="https://www.codewars.com/users/Astagnar/badges/large" align="center" />
 
 ## Связь со мной 
 <a href="https://vk.com/astagnar"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/vk_logo_icon_147212.png" width="20" height="20"></a>
-<a href="https://htmlpreview.github.io/?https://github.com/WolfInChains/WolfInChains/blob/master/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="20" height="20"></a>
+<a href="https://htmlpreview.github.io/?https://github.com/FallenAstaroth/FallenAstaroth/blob/master/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="20" height="20"></a>
