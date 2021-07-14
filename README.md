@@ -16,7 +16,9 @@
   />
 </p>
 
-<img src="https://www.codewars.com/users/Astagnar/badges/large" align="center" />
+<p align="center">
+  <img src="https://www.codewars.com/users/Astagnar/badges/large" align="center" />
+</p>
 
 <p align="center">
   <a href="https://vk.com/innkvi"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/vk_logo_icon_147212.png" width="20" height="20"></a>
