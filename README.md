@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=FallenAstaroth&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=false&theme=github_dark&border_color=57a5fe"
+    src="https://github-readme-stats.vercel.app/api?username=FallenAstaroth&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=false&theme=vue-dark&border_color=57a5fe"
   />
 </p>
 
