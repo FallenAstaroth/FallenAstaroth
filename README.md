@@ -10,7 +10,11 @@
 <!--END_SECTION:waka-->
 
 ## Статистика 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FallenAstaroth&show_icons=true&theme=default)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FallenAstaroth&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=false&theme=github_dark&border_color=57a5fe"
+  />
+</p>
 
 <img src="https://www.codewars.com/users/Astagnar/badges/large" align="center" />
 
