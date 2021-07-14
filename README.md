@@ -1,15 +1,13 @@
 <img src="https://gpvc.arturio.dev/FallenAstaroth" align="center" />
 
-## Мой стек 
-
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
-![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
-![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
-
+<p align="center">
+  ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
+  ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
+  ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
+</p>
 <!--END_SECTION:waka-->
 
-## Статистика 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=FallenAstaroth&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=false&theme=github_dark&border_color=57a5fe"
