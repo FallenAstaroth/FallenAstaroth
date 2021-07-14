@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/Astagnar/badges/large" align="center" />
-</p>
-
-<p align="center">
   <a href="https://vk.com/innkvi"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/vk_logo_icon_147212.png" width="20" height="20"></a>
   <a href="https://htmlpreview.github.io/?https://github.com/FallenAstaroth/FallenAstaroth/blob/master/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="20" height="20"></a>
 </p>
