@@ -21,6 +21,3 @@
   <a href="https://htmlpreview.github.io/?https://github.com/FallenAstaroth/FallenAstaroth/blob/master/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="20" height="20"></a>
 </p>
 
-<p align="center">
-  <a>Обновление и добавление новых репозиториев с 17 августа</a>
-</p>
