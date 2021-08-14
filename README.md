@@ -11,12 +11,6 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FallenAstaroth&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=false&theme=react&border_color=57a5fe"
-  />
-</p>
-
-<p align="center">
   <a href="https://vk.com/innkvi"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/vk_logo_icon_147212.png" width="20" height="20"></a>
   <a href="https://htmlpreview.github.io/?https://github.com/FallenAstaroth/FallenAstaroth/blob/master/docs/index.html"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" width="20" height="20"></a>
 </p>
