@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/90fc40a1c14ff8311d3fe041695194c46ffe7049bd50ba4f4d3d0380644688db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f564b6f6e74616b74652d2532333245383746423f7374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465" alt="VKontakte" data-canonical-src="https://img.shields.io/badge/VKontakte-%232E87FB?style=for-the-badge&amp;logo=vk&amp;logoColor=white" style="max-width: 100%;">
+  
+  <a href="https://vk.com/innkvi"><img src="https://camo.githubusercontent.com/90fc40a1c14ff8311d3fe041695194c46ffe7049bd50ba4f4d3d0380644688db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f564b6f6e74616b74652d2532333245383746423f7374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465" alt="VKontakte" data-canonical-src="https://img.shields.io/badge/VKontakte-%232E87FB?style=for-the-badge&amp;logo=vk&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
