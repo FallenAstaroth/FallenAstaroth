@@ -17,7 +17,6 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenAstaroth&langs_count=9&line_height=35&theme=react&layout=compact&border_color=57a5fe"
   />
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbbtd&langs_count=9&line_height=35&theme=buefy&layout=compact)
 </p>
 
 <p align="center">
