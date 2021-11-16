@@ -14,6 +14,10 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=FallenAstaroth&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&hide_rank=true&hide_border=false&theme=react&border_color=57a5fe"
   />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenAstaroth&langs_count=9&line_height=35&theme=react&layout=compact&border_color=57a5fe"
+  />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbbtd&langs_count=9&line_height=35&theme=buefy&layout=compact)
 </p>
 
 <p align="center">
