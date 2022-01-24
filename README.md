@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square"/></a>
-  <a><img src="https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square"/></a>
-  <a><img src="https://img.shields.io/badge/-Csharp-%230075a8?logo=csharp#&logoColor=white&style=flat-square"/></a>
+  <a><img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=plastic"/></a>
+  <a><img src="https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=plastic"/></a>
+  <a><img src="https://img.shields.io/badge/-Csharp-%230075a8?logo=csharp#&logoColor=white&style=plastic"/></a>
 </p>
 <!--END_SECTION:waka-->
 
