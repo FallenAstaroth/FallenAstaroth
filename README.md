@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <a><img src="https://img.shields.io/badge/-Python-366e9c?logo=Python&logoColor=ffffff&style=flat-square"/></a>
+  <a><img src="https://img.shields.io/badge/-JavaScript-bfb436?logo=JavaScript&logoColor=ffffff&style=flat-square"/></a>
+  <a><img src="https://img.shields.io/badge/-CSharp-83369c?logo=CSharp&logoColor=ffffff&style=flat-square"/></a>
 </p>
 <!--END_SECTION:waka-->
 
